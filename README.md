@@ -1,5 +1,5 @@
 <h1 align="center">Hey!! 👋, I'm Jay Gupta</h1>
-<h3 align="center">A passionate frontend frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **object Oriented Programming,Database management system**
 
